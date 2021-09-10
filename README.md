@@ -6,6 +6,12 @@ The user should type '0' for Rock, '1' for Paper or '2' for Scissors. Computer r
 Rock, Paper and Scissors build the list from which both user and computer chose. <br>
 Values other then 0-2 are not valid and give an error.
 
-Here's how it works
-https://user-images.githubusercontent.com/32927392/132827104-3e8fd6d0-0415-4e6f-b747-f91cf51be381.mov
+Here's how it works:
+
+
+https://user-images.githubusercontent.com/32927392/132827897-54358f26-6d32-4d11-9a1b-ae477cfb5354.mov
+
+
+
+
 
